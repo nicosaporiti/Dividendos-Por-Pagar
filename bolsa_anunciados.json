@@ -1996,14 +1996,14 @@
             "descrip_vc": "DIVIDENDO DEF. 34 US$ 0,05533",
             "fec_lim": "2026-04-18",
             "fec_pago": "2026-04-24",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "FROWARD",
             "num_acc_ant": 0,
             "num_acc_der": 113238186,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.055
+            "val_acc": 48.487
         },
         {
             "descrip_vc": "DIVIDENDO ADIC. 57 $ 10,69454597",
@@ -2097,17 +2097,17 @@
             "val_acc": 0.129
         },
         {
-            "descrip_vc": "DIVIDENDO DEF.  US$ 0,000144",
+            "descrip_vc": "DIVIDENDO DEF. US$ 0,000144",
             "fec_lim": "2026-04-18",
             "fec_pago": "2026-04-24",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "NORTEGRAN",
             "num_acc_ant": 0,
             "num_acc_der": 197369228989,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0
+            "val_acc": 0.126
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,44",
@@ -2747,43 +2747,43 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "DIVIDENDO DEF.  US$ 0,005514",
+            "descrip_vc": "DIVIDENDO DEF. US$ 0,005514",
             "fec_lim": "2026-04-16",
             "fec_pago": "2026-04-22",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "POTASIOS-B",
             "num_acc_ant": 0,
             "num_acc_der": 294472730,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.006
+            "val_acc": 4.832
         },
         {
-            "descrip_vc": "DIVIDENDO DEF.  US$ 0,005013",
+            "descrip_vc": "DIVIDENDO DEF. US$ 0,005013",
             "fec_lim": "2026-04-16",
             "fec_pago": "2026-04-22",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "POTASIOS-A",
             "num_acc_ant": 0,
             "num_acc_der": 4441670481,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.005
+            "val_acc": 4.393
         },
         {
-            "descrip_vc": "DIVIDENDO DEF.  US$ 0,000104",
+            "descrip_vc": "DIVIDENDO DEF. US$ 0,000104",
             "fec_lim": "2026-04-16",
             "fec_pago": "2026-04-22",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "ORO BLANCO",
             "num_acc_ant": 0,
             "num_acc_der": 263761936332,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0
+            "val_acc": 0.091
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,000979276477480123",
