@@ -1770,53 +1770,53 @@
             "descrip_vc": "DIVIDENDO EVEN. 339 US$ 0,0018901058850",
             "fec_lim": "2026-05-14",
             "fec_pago": "2026-05-20",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "VAPORES",
             "num_acc_ant": 0,
             "num_acc_der": 51319876188,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.002
+            "val_acc": 1.681
         },
         {
             "descrip_vc": "DIVIDENDO DEF. 336 US$ 0,0012456662671",
             "fec_lim": "2026-05-14",
             "fec_pago": "2026-05-20",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "VAPORES",
             "num_acc_ant": 0,
             "num_acc_der": 51319876188,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.001
+            "val_acc": 1.108
         },
         {
             "descrip_vc": "DIVIDENDO ADIC. 337 US$ 0,0029065546231",
             "fec_lim": "2026-05-14",
             "fec_pago": "2026-05-20",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "VAPORES",
             "num_acc_ant": 0,
             "num_acc_der": 51319876188,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.003
+            "val_acc": 2.584
         },
         {
             "descrip_vc": "DIVIDENDO EVEN. 338 US$ 0,0014986111371",
             "fec_lim": "2026-05-14",
             "fec_pago": "2026-05-20",
-            "moneda": "US$",
+            "moneda": "$",
             "nemo": "VAPORES",
             "num_acc_ant": 0,
             "num_acc_der": 51319876188,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.001
+            "val_acc": 1.333
         },
         {
             "descrip_vc": "DIVIDENDO DEF. 21 US$ 0,003123519916077",
