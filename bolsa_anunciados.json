@@ -1031,7 +1031,7 @@
             "fec_lim": "2026-08-20",
             "fec_pago": "2026-08-26",
             "moneda": "US$",
-            "nemo": "ORO BLANCO",
+            "nemo": "PAMPA",
             "num_acc_ant": 0,
             "num_acc_der": 524778623926,
             "num_acc_nue": 0,
@@ -3470,32 +3470,6 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0026663424",
-            "fec_lim": "2026-08-04",
-            "fec_pago": "2026-08-10",
-            "moneda": "US$",
-            "nemo": "CFI-HDPAXE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.003
-        },
-        {
-            "descrip_vc": "REPARTO CAP. US$ 0,0240688206",
-            "fec_lim": "2026-08-04",
-            "fec_pago": "2026-08-10",
-            "moneda": "US$",
-            "nemo": "CFI-HDPAXE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.024
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0026485853",
             "fec_lim": "2026-08-04",
             "fec_pago": "2026-08-10",
@@ -3514,6 +3488,32 @@
             "fec_pago": "2026-08-10",
             "moneda": "US$",
             "nemo": "CFI-HDPAAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.024
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0026663424",
+            "fec_lim": "2026-08-04",
+            "fec_pago": "2026-08-10",
+            "moneda": "US$",
+            "nemo": "CFI-HDPAXE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.003
+        },
+        {
+            "descrip_vc": "REPARTO CAP. US$ 0,0240688206",
+            "fec_lim": "2026-08-04",
+            "fec_pago": "2026-08-10",
+            "moneda": "US$",
+            "nemo": "CFI-HDPAXE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -3665,11 +3665,11 @@
             "val_acc": 0.201
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,152297",
+            "descrip_vc": "DIVIDENDO US$ 0,152297",
             "fec_lim": "2026-08-04",
             "fec_pago": "2026-08-07",
             "moneda": "US$",
-            "nemo": "TLTWCL",
+            "nemo": "TLTW",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -3678,11 +3678,11 @@
             "val_acc": 0.152
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,152297",
+            "descrip_vc": "DIVIDENDO INF US$ 0,152297",
             "fec_lim": "2026-08-04",
             "fec_pago": "2026-08-07",
             "moneda": "US$",
-            "nemo": "TLTW",
+            "nemo": "TLTWCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -3860,11 +3860,11 @@
             "val_acc": 0.245
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,186886",
+            "descrip_vc": "DIVIDENDO US$ 0,186886",
             "fec_lim": "2026-08-03",
             "fec_pago": "2026-08-06",
             "moneda": "US$",
-            "nemo": "SLQD CL",
+            "nemo": "SLQD",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -3873,11 +3873,11 @@
             "val_acc": 0.187
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,186886",
+            "descrip_vc": "DIVIDENDO INF US$ 0,186886",
             "fec_lim": "2026-08-03",
             "fec_pago": "2026-08-06",
             "moneda": "US$",
-            "nemo": "SLQD",
+            "nemo": "SLQD CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -4757,32 +4757,6 @@
             "val_acc": 0.739
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,354945",
-            "fec_lim": "2026-08-03",
-            "fec_pago": "2026-08-06",
-            "moneda": "US$",
-            "nemo": "SYSBCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.355
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,354945",
-            "fec_lim": "2026-08-03",
-            "fec_pago": "2026-08-06",
-            "moneda": "US$",
-            "nemo": "SYSB",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.355
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,09539",
             "fec_lim": "2026-08-03",
             "fec_pago": "2026-08-06",
@@ -4833,6 +4807,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.088
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,354945",
+            "fec_lim": "2026-08-03",
+            "fec_pago": "2026-08-06",
+            "moneda": "US$",
+            "nemo": "SYSB",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.355
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,354945",
+            "fec_lim": "2026-08-03",
+            "fec_pago": "2026-08-06",
+            "moneda": "US$",
+            "nemo": "SYSBCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.355
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,306812",
@@ -5186,32 +5186,6 @@
             "val_acc": 0.023
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,001965569114325280",
-            "fec_lim": "2026-07-29",
-            "fec_pago": "2026-08-04",
-            "moneda": "US$",
-            "nemo": "CFI-BAP8IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.002
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,022997916657149200",
-            "fec_lim": "2026-07-29",
-            "fec_pago": "2026-08-04",
-            "moneda": "US$",
-            "nemo": "CFI-BAP8IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.023
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,001760937924608870",
             "fec_lim": "2026-07-29",
             "fec_pago": "2026-08-04",
@@ -5236,6 +5210,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.021
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,001965569114325280",
+            "fec_lim": "2026-07-29",
+            "fec_pago": "2026-08-04",
+            "moneda": "US$",
+            "nemo": "CFI-BAP8IE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.002
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,022997916657149200",
+            "fec_lim": "2026-07-29",
+            "fec_pago": "2026-08-04",
+            "moneda": "US$",
+            "nemo": "CFI-BAP8IE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.023
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,01200163",
@@ -5758,32 +5758,6 @@
             "val_acc": 0.065
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,601660",
-            "fec_lim": "2026-07-24",
-            "fec_pago": "2026-07-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSPE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.602
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,608766",
-            "fec_lim": "2026-07-24",
-            "fec_pago": "2026-07-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSQE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.609
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,601957",
             "fec_lim": "2026-07-24",
             "fec_pago": "2026-07-30",
@@ -5847,6 +5821,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.592
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,601660",
+            "fec_lim": "2026-07-24",
+            "fec_pago": "2026-07-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSPE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.602
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,608766",
+            "fec_lim": "2026-07-24",
+            "fec_pago": "2026-07-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSQE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.609
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,03178175940476760",
@@ -6642,11 +6642,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,007254",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0074824921",
             "fec_lim": "2026-07-22",
             "fec_pago": "2026-07-28",
             "moneda": "US$",
-            "nemo": "CFI-BSDP1E",
+            "nemo": "CFI-BSDP3E",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -6655,11 +6655,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0074824921",
+            "descrip_vc": "REPARTO CAP.  US$ 0,007254",
             "fec_lim": "2026-07-22",
             "fec_pago": "2026-07-28",
             "moneda": "US$",
-            "nemo": "CFI-BSDP3E",
+            "nemo": "CFI-BSDP1E",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -6679,6 +6679,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,006199427",
+            "fec_lim": "2026-07-22",
+            "fec_pago": "2026-07-28",
+            "moneda": "US$",
+            "nemo": "CFI-AMG4RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,015008341",
+            "fec_lim": "2026-07-22",
+            "fec_pago": "2026-07-28",
+            "moneda": "US$",
+            "nemo": "CFI-AMG4RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.015
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,00625131",
@@ -6751,32 +6777,6 @@
             "fec_pago": "2026-07-28",
             "moneda": "US$",
             "nemo": "CFI-AMG4IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.015
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,006199427",
-            "fec_lim": "2026-07-22",
-            "fec_pago": "2026-07-28",
-            "moneda": "US$",
-            "nemo": "CFI-AMG4RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,015008341",
-            "fec_lim": "2026-07-22",
-            "fec_pago": "2026-07-28",
-            "moneda": "US$",
-            "nemo": "CFI-AMG4RE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -7045,32 +7045,6 @@
             "val_acc": 0.47
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0545883897",
-            "fec_lim": "2026-07-21",
-            "fec_pago": "2026-07-27",
-            "moneda": "US$",
-            "nemo": "CFI-GT13AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.055
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0549860922",
-            "fec_lim": "2026-07-21",
-            "fec_pago": "2026-07-27",
-            "moneda": "US$",
-            "nemo": "CFI-GT13BE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.055
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,007265",
             "fec_lim": "2026-07-21",
             "fec_pago": "2026-07-27",
@@ -7095,6 +7069,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0545883897",
+            "fec_lim": "2026-07-21",
+            "fec_pago": "2026-07-27",
+            "moneda": "US$",
+            "nemo": "CFI-GT13AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.055
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0549860922",
+            "fec_lim": "2026-07-21",
+            "fec_pago": "2026-07-27",
+            "moneda": "US$",
+            "nemo": "CFI-GT13BE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.055
         },
         {
             "descrip_vc": "REPARTO CAP.  EURO 1,258337",
@@ -8461,11 +8461,11 @@
             "val_acc": 6.532
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0067221919",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0068134063",
             "fec_lim": "2026-07-13",
             "fec_pago": "2026-07-20",
             "moneda": "US$",
-            "nemo": "CFI-HRGDC",
+            "nemo": "CFI-HRGDBP",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -8474,11 +8474,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0068134063",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0067221919",
             "fec_lim": "2026-07-13",
             "fec_pago": "2026-07-20",
             "moneda": "US$",
-            "nemo": "CFI-HRGDBP",
+            "nemo": "CFI-HRGDC",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -9891,9 +9891,9 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "CANJE INF FUSION X INCORPORAC NORTEGRAN",
+            "descrip_vc": "CANJE X FUSION 1,322 ACCS NORTEGRAN X 1 ORO BLANCO",
             "fec_lim": "2026-07-13",
-            "nemo": "ORO BLANCO",
+            "nemo": "NORTEGRAN",
             "num_acc_ant": 0,
             "num_acc_der": 0,
             "num_acc_nue": 0,
@@ -9902,9 +9902,9 @@
             "val_acc": 0
         },
         {
-            "descrip_vc": "CANJE X FUSION 1,322 ACCS NORTEGRAN X 1 ORO BLANCO",
+            "descrip_vc": "CANJE INF FUSION X INCORPORAC NORTEGRAN",
             "fec_lim": "2026-07-13",
-            "nemo": "NORTEGRAN",
+            "nemo": "PAMPA",
             "num_acc_ant": 0,
             "num_acc_der": 0,
             "num_acc_nue": 0,
@@ -10316,58 +10316,6 @@
             "val_acc": 0.07
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0120122582",
-            "fec_lim": "2026-07-07",
-            "fec_pago": "2026-07-13",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.012
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0126871613",
-            "fec_lim": "2026-07-07",
-            "fec_pago": "2026-07-13",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.013
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0119969241",
-            "fec_lim": "2026-07-07",
-            "fec_pago": "2026-07-13",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.012
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0126709655",
-            "fec_lim": "2026-07-07",
-            "fec_pago": "2026-07-13",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.013
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0113374867",
             "fec_lim": "2026-07-07",
             "fec_pago": "2026-07-13",
@@ -10412,6 +10360,58 @@
             "fec_pago": "2026-07-13",
             "moneda": "US$",
             "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.013
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0120122582",
+            "fec_lim": "2026-07-07",
+            "fec_pago": "2026-07-13",
+            "moneda": "US$",
+            "nemo": "CFI-BC8IAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.012
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0126871613",
+            "fec_lim": "2026-07-07",
+            "fec_pago": "2026-07-13",
+            "moneda": "US$",
+            "nemo": "CFI-BC8IAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.013
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0119969241",
+            "fec_lim": "2026-07-07",
+            "fec_pago": "2026-07-13",
+            "moneda": "US$",
+            "nemo": "CFI-BC8IE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.012
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0126709655",
+            "fec_lim": "2026-07-07",
+            "fec_pago": "2026-07-13",
+            "moneda": "US$",
+            "nemo": "CFI-BC8IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -11057,32 +11057,6 @@
             "val_acc": 0.009
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0206492660",
-            "fec_lim": "2026-07-03",
-            "fec_pago": "2026-07-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.021
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0100380207",
-            "fec_lim": "2026-07-03",
-            "fec_pago": "2026-07-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0208894290",
             "fec_lim": "2026-07-03",
             "fec_pago": "2026-07-09",
@@ -11107,6 +11081,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0217888582",
+            "fec_lim": "2026-07-03",
+            "fec_pago": "2026-07-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCXIAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.022
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0105920042",
+            "fec_lim": "2026-07-03",
+            "fec_pago": "2026-07-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCXIAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.011
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0181047401",
@@ -11135,30 +11135,30 @@
             "val_acc": 0.009
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0217888582",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0206492660",
             "fec_lim": "2026-07-03",
             "fec_pago": "2026-07-09",
             "moneda": "US$",
-            "nemo": "CFI-LCXIAE",
+            "nemo": "CFI-LCPXCE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.022
+            "val_acc": 0.021
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0105920042",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0100380207",
             "fec_lim": "2026-07-03",
             "fec_pago": "2026-07-09",
             "moneda": "US$",
-            "nemo": "CFI-LCXIAE",
+            "nemo": "CFI-LCPXCE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.011
+            "val_acc": 0.01
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0211135090",
@@ -11837,19 +11837,6 @@
             "val_acc": 6.283
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,007027914",
-            "fec_lim": "2026-07-02",
-            "fec_pago": "2026-07-08",
-            "moneda": "US$",
-            "nemo": "CFI-AG3ANE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.007
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,006975039",
             "fec_lim": "2026-07-02",
             "fec_pago": "2026-07-08",
@@ -11868,6 +11855,19 @@
             "fec_pago": "2026-07-08",
             "moneda": "US$",
             "nemo": "CFI-AG3INE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,007027914",
+            "fec_lim": "2026-07-02",
+            "fec_pago": "2026-07-08",
+            "moneda": "US$",
+            "nemo": "CFI-AG3ANE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -12253,19 +12253,6 @@
             "val_acc": 0.241
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,24068",
-            "fec_lim": "2026-07-01",
-            "fec_pago": "2026-07-07",
-            "moneda": "US$",
-            "nemo": "SHYG CL",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.241
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,183917",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
@@ -12290,6 +12277,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.184
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,24068",
+            "fec_lim": "2026-07-01",
+            "fec_pago": "2026-07-07",
+            "moneda": "US$",
+            "nemo": "SHYG CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.241
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 1,058023",
@@ -12318,19 +12318,6 @@
             "val_acc": 0.363
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,31803",
-            "fec_lim": "2026-07-01",
-            "fec_pago": "2026-07-07",
-            "moneda": "US$",
-            "nemo": "TLT",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.318
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,362812",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
@@ -12349,6 +12336,19 @@
             "fec_pago": "2026-07-07",
             "moneda": "US$",
             "nemo": "TLT CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.318
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,31803",
+            "fec_lim": "2026-07-01",
+            "fec_pago": "2026-07-07",
+            "moneda": "US$",
+            "nemo": "TLT",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -13527,24 +13527,11 @@
             "val_acc": 0.261
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,201636",
+            "descrip_vc": "DIVIDENDO US$ 0,206289",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
             "moneda": "US$",
-            "nemo": "USIG",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.202
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,206289",
-            "fec_lim": "2026-07-01",
-            "fec_pago": "2026-07-07",
-            "moneda": "US$",
-            "nemo": "USHYCL",
+            "nemo": "USHY",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -13553,11 +13540,11 @@
             "val_acc": 0.206
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,206289",
+            "descrip_vc": "DIVIDENDO INF US$ 0,206289",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
             "moneda": "US$",
-            "nemo": "USHY",
+            "nemo": "USHYCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -13618,19 +13605,6 @@
             "val_acc": 0.088
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,092544",
-            "fec_lim": "2026-07-01",
-            "fec_pago": "2026-07-07",
-            "moneda": "US$",
-            "nemo": "SUSBCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.093
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,088035",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
@@ -13642,6 +13616,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.088
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,092544",
+            "fec_lim": "2026-07-01",
+            "fec_pago": "2026-07-07",
+            "moneda": "US$",
+            "nemo": "SUSBCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.093
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,092544",
@@ -13865,11 +13852,24 @@
             "val_acc": 0.202
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0060849767",
+            "descrip_vc": "DIVIDENDO US$ 0,201636",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
             "moneda": "US$",
-            "nemo": "CFI-BRE9IE",
+            "nemo": "USIG",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.202
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0060849784",
+            "fec_lim": "2026-07-01",
+            "fec_pago": "2026-07-07",
+            "moneda": "US$",
+            "nemo": "CFI-BRE9CE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -13878,11 +13878,11 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0060849784",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0060849767",
             "fec_lim": "2026-07-01",
             "fec_pago": "2026-07-07",
             "moneda": "US$",
-            "nemo": "CFI-BRE9CE",
+            "nemo": "CFI-BRE9IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -14580,6 +14580,32 @@
             "val_acc": 0.001
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,006632227",
+            "fec_lim": "2026-06-30",
+            "fec_pago": "2026-07-06",
+            "moneda": "US$",
+            "nemo": "CFI-ACESBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,005771609",
+            "fec_lim": "2026-06-30",
+            "fec_pago": "2026-07-06",
+            "moneda": "US$",
+            "nemo": "CFI-ACESBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,006535031",
             "fec_lim": "2026-06-30",
             "fec_pago": "2026-07-06",
@@ -14598,32 +14624,6 @@
             "fec_pago": "2026-07-06",
             "moneda": "US$",
             "nemo": "CFI-ACESAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,007022156",
-            "fec_lim": "2026-06-30",
-            "fec_pago": "2026-07-06",
-            "moneda": "US$",
-            "nemo": "CFI-ACESIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.007
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,006110939",
-            "fec_lim": "2026-06-30",
-            "fec_pago": "2026-07-06",
-            "moneda": "US$",
-            "nemo": "CFI-ACESIE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -14658,11 +14658,11 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,006632227",
+            "descrip_vc": "DIVIDENDO INF US$ 0,007022156",
             "fec_lim": "2026-06-30",
             "fec_pago": "2026-07-06",
             "moneda": "US$",
-            "nemo": "CFI-ACESBE",
+            "nemo": "CFI-ACESIE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -14671,11 +14671,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,005771609",
+            "descrip_vc": "REPARTO CAP.  US$ 0,006110939",
             "fec_lim": "2026-06-30",
             "fec_pago": "2026-07-06",
             "moneda": "US$",
-            "nemo": "CFI-ACESBE",
+            "nemo": "CFI-ACESIE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -14995,19 +14995,6 @@
             "val_acc": 0.038
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,03611979",
-            "fec_lim": "2026-06-26",
-            "fec_pago": "2026-07-03",
-            "moneda": "US$",
-            "nemo": "CFI-CIC2CE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.036
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,03687843",
             "fec_lim": "2026-06-26",
             "fec_pago": "2026-07-03",
@@ -15019,6 +15006,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.037
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,03611979",
+            "fec_lim": "2026-06-26",
+            "fec_pago": "2026-07-03",
+            "moneda": "US$",
+            "nemo": "CFI-CIC2CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.036
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,4949058",
@@ -15618,6 +15618,19 @@
             "val_acc": 1.7
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,067736410",
+            "fec_lim": "2026-06-24",
+            "fec_pago": "2026-07-01",
+            "moneda": "US$",
+            "nemo": "CFI-LGTVCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.068
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,068426860",
             "fec_lim": "2026-06-24",
             "fec_pago": "2026-07-01",
@@ -15655,19 +15668,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.067
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,067736410",
-            "fec_lim": "2026-06-24",
-            "fec_pago": "2026-07-01",
-            "moneda": "US$",
-            "nemo": "CFI-LGTVCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.068
         },
         {
             "descrip_vc": "DIVIDENDO EVEN. $ 1133076,1454545",
@@ -16511,11 +16511,50 @@
             "val_acc": 0.09
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,576571",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,562320",
             "fec_lim": "2026-06-23",
             "fec_pago": "2026-06-30",
             "moneda": "US$",
-            "nemo": "CFI-CARSEE",
+            "nemo": "CFI-CARSGE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.562
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,570921",
+            "fec_lim": "2026-06-23",
+            "fec_pago": "2026-06-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSPE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.571
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,577678",
+            "fec_lim": "2026-06-23",
+            "fec_pago": "2026-06-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSQE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.578
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,577410",
+            "fec_lim": "2026-06-23",
+            "fec_pago": "2026-06-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSFE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -16524,11 +16563,11 @@
             "val_acc": 0.577
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,577410",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,576571",
             "fec_lim": "2026-06-23",
             "fec_pago": "2026-06-30",
             "moneda": "US$",
-            "nemo": "CFI-CARSFE",
+            "nemo": "CFI-CARSEE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -16561,45 +16600,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.571
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,577678",
-            "fec_lim": "2026-06-23",
-            "fec_pago": "2026-06-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSQE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.578
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,570921",
-            "fec_lim": "2026-06-23",
-            "fec_pago": "2026-06-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSPE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.571
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,562320",
-            "fec_lim": "2026-06-23",
-            "fec_pago": "2026-06-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSGE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.562
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,01473204",
@@ -18968,6 +18968,58 @@
             "val_acc": 0.17
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0154244562",
+            "fec_lim": "2026-06-18",
+            "fec_pago": "2026-06-24",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.015
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0263145434",
+            "fec_lim": "2026-06-18",
+            "fec_pago": "2026-06-24",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.026
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0183791721",
+            "fec_lim": "2026-06-18",
+            "fec_pago": "2026-06-24",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.018
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0313553531",
+            "fec_lim": "2026-06-18",
+            "fec_pago": "2026-06-24",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.031
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0200892797",
             "fec_lim": "2026-06-18",
             "fec_pago": "2026-06-24",
@@ -19044,58 +19096,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.036
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0154244562",
-            "fec_lim": "2026-06-18",
-            "fec_pago": "2026-06-24",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.015
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0263145434",
-            "fec_lim": "2026-06-18",
-            "fec_pago": "2026-06-24",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.026
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0183791721",
-            "fec_lim": "2026-06-18",
-            "fec_pago": "2026-06-24",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.018
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0313553531",
-            "fec_lim": "2026-06-18",
-            "fec_pago": "2026-06-24",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.031
         },
         {
             "descrip_vc": "DIVIDENDO DEF. $ 670,945637570",
@@ -21516,19 +21516,6 @@
             "val_acc": 1.281
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,923295",
-            "fec_lim": "2026-06-15",
-            "fec_pago": "2026-06-18",
-            "moneda": "US$",
-            "nemo": "SCJ",
-            "num_acc_ant": 0,
-            "num_acc_der": 100000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.923
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 1,169898",
             "fec_lim": "2026-06-15",
             "fec_pago": "2026-06-18",
@@ -21540,6 +21527,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 1.17
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,923295",
+            "fec_lim": "2026-06-15",
+            "fec_pago": "2026-06-18",
+            "moneda": "US$",
+            "nemo": "SCJ",
+            "num_acc_ant": 0,
+            "num_acc_der": 100000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.923
         },
         {
             "descrip_vc": "DIVIDENDO US$ 1,125129",
@@ -22972,19 +22972,6 @@
             "val_acc": 0.358
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 1,169898",
-            "fec_lim": "2026-06-15",
-            "fec_pago": "2026-06-18",
-            "moneda": "US$",
-            "nemo": "SCZCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 1.17
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,923295",
             "fec_lim": "2026-06-15",
             "fec_pago": "2026-06-18",
@@ -23048,6 +23035,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.386
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 1,169898",
+            "fec_lim": "2026-06-15",
+            "fec_pago": "2026-06-18",
+            "moneda": "US$",
+            "nemo": "SCZCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 1.17
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,731226",
@@ -24467,11 +24467,11 @@
             "val_acc": 0.286
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,285166",
+            "descrip_vc": "DIVIDENDO INF US$ 0,285166",
             "fec_lim": "2026-06-15",
             "fec_pago": "2026-06-18",
             "moneda": "US$",
-            "nemo": "SUSL",
+            "nemo": "SUSLCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -24480,11 +24480,11 @@
             "val_acc": 0.285
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,285166",
+            "descrip_vc": "DIVIDENDO US$ 0,285166",
             "fec_lim": "2026-06-15",
             "fec_pago": "2026-06-18",
             "moneda": "US$",
-            "nemo": "SUSLCL",
+            "nemo": "SUSL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -25026,11 +25026,11 @@
             "val_acc": 0.186
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0068300769",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0067421536",
             "fec_lim": "2026-06-11",
             "fec_pago": "2026-06-17",
             "moneda": "US$",
-            "nemo": "CFI-HRGDBP",
+            "nemo": "CFI-HRGDC",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -25039,11 +25039,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0067421536",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0068300769",
             "fec_lim": "2026-06-11",
             "fec_pago": "2026-06-17",
             "moneda": "US$",
-            "nemo": "CFI-HRGDC",
+            "nemo": "CFI-HRGDBP",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -27936,11 +27936,11 @@
             "val_acc": 0
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0165185614434579",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0172810093084707",
             "fec_lim": "2026-06-04",
             "fec_pago": "2026-06-10",
             "moneda": "US$",
-            "nemo": "CFI-BAG5AE",
+            "nemo": "CFI-BA5P3E",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -27949,11 +27949,11 @@
             "val_acc": 0.017
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0172810093084707",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0165185614434579",
             "fec_lim": "2026-06-04",
             "fec_pago": "2026-06-10",
             "moneda": "US$",
-            "nemo": "CFI-BA5P3E",
+            "nemo": "CFI-BAG5AE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -28728,19 +28728,6 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,005396933",
-            "fec_lim": "2026-06-03",
-            "fec_pago": "2026-06-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.005
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,005753941",
             "fec_lim": "2026-06-03",
             "fec_pago": "2026-06-09",
@@ -28752,6 +28739,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,005396933",
+            "fec_lim": "2026-06-03",
+            "fec_pago": "2026-06-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.005
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,005442694",
@@ -31224,19 +31224,6 @@
             "val_acc": 0.207
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 1,135695",
-            "fec_lim": "2026-06-01",
-            "fec_pago": "2026-06-04",
-            "moneda": "US$",
-            "nemo": "STIPCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 1.136
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 1,135695",
             "fec_lim": "2026-06-01",
             "fec_pago": "2026-06-04",
@@ -31250,11 +31237,24 @@
             "val_acc": 1.136
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,345386",
+            "descrip_vc": "DIVIDENDO INF US$ 1,135695",
             "fec_lim": "2026-06-01",
             "fec_pago": "2026-06-04",
             "moneda": "US$",
-            "nemo": "SYSB",
+            "nemo": "STIPCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 1.136
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,345386",
+            "fec_lim": "2026-06-01",
+            "fec_pago": "2026-06-04",
+            "moneda": "US$",
+            "nemo": "SYSBCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -31263,11 +31263,11 @@
             "val_acc": 0.345
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,345386",
+            "descrip_vc": "DIVIDENDO US$ 0,345386",
             "fec_lim": "2026-06-01",
             "fec_pago": "2026-06-04",
             "moneda": "US$",
-            "nemo": "SYSBCL",
+            "nemo": "SYSB",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -31510,32 +31510,6 @@
             "val_acc": 1.005
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,9562423625",
-            "fec_lim": "2026-05-29",
-            "fec_pago": "2026-06-04",
-            "moneda": "US$",
-            "nemo": "CFI-DSSBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.956
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,9717666382",
-            "fec_lim": "2026-05-29",
-            "fec_pago": "2026-06-04",
-            "moneda": "US$",
-            "nemo": "CFI-DSSBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.972
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,9384065973",
             "fec_lim": "2026-05-29",
             "fec_pago": "2026-06-04",
@@ -31560,6 +31534,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.954
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,9562423625",
+            "fec_lim": "2026-05-29",
+            "fec_pago": "2026-06-04",
+            "moneda": "US$",
+            "nemo": "CFI-DSSBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.956
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,9717666382",
+            "fec_lim": "2026-05-29",
+            "fec_pago": "2026-06-04",
+            "moneda": "US$",
+            "nemo": "CFI-DSSBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.972
         },
         {
             "descrip_vc": "DIVIDENDO PROV. $ 2753,62301700",
@@ -31978,32 +31978,6 @@
             "val_acc": 0.02
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0104185216",
-            "fec_lim": "2026-05-28",
-            "fec_pago": "2026-06-03",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0219429046",
-            "fec_lim": "2026-05-28",
-            "fec_pago": "2026-06-03",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.022
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0102969789",
             "fec_lim": "2026-05-28",
             "fec_pago": "2026-06-03",
@@ -32022,6 +31996,32 @@
             "fec_pago": "2026-06-03",
             "moneda": "US$",
             "nemo": "CFI-LCPXCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.022
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0104185216",
+            "fec_lim": "2026-05-28",
+            "fec_pago": "2026-06-03",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0219429046",
+            "fec_lim": "2026-05-28",
+            "fec_pago": "2026-06-03",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXBE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -32056,32 +32056,6 @@
             "val_acc": 0.023
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0090414094",
-            "fec_lim": "2026-05-28",
-            "fec_pago": "2026-06-03",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXRE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.009
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0190424951",
-            "fec_lim": "2026-05-28",
-            "fec_pago": "2026-06-03",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXRE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.019
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0105285332",
             "fec_lim": "2026-05-28",
             "fec_pago": "2026-06-03",
@@ -32106,6 +32080,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.022
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0090414094",
+            "fec_lim": "2026-05-28",
+            "fec_pago": "2026-06-03",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXRE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.009
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0190424951",
+            "fec_lim": "2026-05-28",
+            "fec_pago": "2026-06-03",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXRE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.019
         },
         {
             "descrip_vc": "REPARTO EQUIV. EN US$ A 851920 CUOTAS",
@@ -32627,32 +32627,6 @@
             "val_acc": 0.45
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0411852480",
-            "fec_lim": "2026-05-26",
-            "fec_pago": "2026-06-01",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDRE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.041
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0420491666",
-            "fec_lim": "2026-05-26",
-            "fec_pago": "2026-06-01",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.042
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0413983798",
             "fec_lim": "2026-05-26",
             "fec_pago": "2026-06-01",
@@ -32690,6 +32664,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.042
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0420491666",
+            "fec_lim": "2026-05-26",
+            "fec_pago": "2026-06-01",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.042
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0411852480",
+            "fec_lim": "2026-05-26",
+            "fec_pago": "2026-06-01",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDRE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.041
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 1,14",
@@ -32978,32 +32978,6 @@
             "val_acc": 0.657
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0336483514",
-            "fec_lim": "2026-05-23",
-            "fec_pago": "2026-05-29",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEA",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.034
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0470524139",
-            "fec_lim": "2026-05-23",
-            "fec_pago": "2026-05-29",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEB",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.047
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0434693623",
             "fec_lim": "2026-05-23",
             "fec_pago": "2026-05-29",
@@ -33028,6 +33002,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.045
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0336483514",
+            "fec_lim": "2026-05-23",
+            "fec_pago": "2026-05-29",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEA",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.034
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0470524139",
+            "fec_lim": "2026-05-23",
+            "fec_pago": "2026-05-29",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEB",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.047
         },
         {
             "descrip_vc": "DIVIDENDO PROV. $ 0,6931",
@@ -35123,19 +35123,6 @@
             "val_acc": 0.028
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0265840122",
-            "fec_lim": "2026-05-19",
-            "fec_pago": "2026-05-26",
-            "moneda": "US$",
-            "nemo": "CFI-BC8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.027
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0281189463",
             "fec_lim": "2026-05-19",
             "fec_pago": "2026-05-26",
@@ -35147,6 +35134,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.028
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0265840122",
+            "fec_lim": "2026-05-19",
+            "fec_pago": "2026-05-26",
+            "moneda": "US$",
+            "nemo": "CFI-BC8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.027
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,12",
@@ -35617,19 +35617,6 @@
             "val_acc": 0.6
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,043117135",
-            "fec_lim": "2026-05-15",
-            "fec_pago": "2026-05-22",
-            "moneda": "US$",
-            "nemo": "CFI-CGGUDV",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.043
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0454542583",
             "fec_lim": "2026-05-15",
             "fec_pago": "2026-05-22",
@@ -35706,6 +35693,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.045
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,043117135",
+            "fec_lim": "2026-05-15",
+            "fec_pago": "2026-05-22",
+            "moneda": "US$",
+            "nemo": "CFI-CGGUDV",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.043
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,1244272870",
@@ -37684,32 +37684,6 @@
             "val_acc": 6.509
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0061593745",
-            "fec_lim": "2026-05-12",
-            "fec_pago": "2026-05-18",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0102768490",
-            "fec_lim": "2026-05-12",
-            "fec_pago": "2026-05-18",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0061591510",
             "fec_lim": "2026-05-12",
             "fec_pago": "2026-05-18",
@@ -37728,6 +37702,32 @@
             "fec_pago": "2026-05-18",
             "moneda": "US$",
             "nemo": "CFI-CGGLIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0061593745",
+            "fec_lim": "2026-05-12",
+            "fec_pago": "2026-05-18",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0102768490",
+            "fec_lim": "2026-05-12",
+            "fec_pago": "2026-05-18",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -37788,6 +37788,19 @@
             "val_acc": 0.038
         },
         {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,218855049",
+            "fec_lim": "2026-05-12",
+            "fec_pago": "2026-05-18",
+            "moneda": "US$",
+            "nemo": "CFI-FTXFWE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.219
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,218259566",
             "fec_lim": "2026-05-12",
             "fec_pago": "2026-05-18",
@@ -37812,19 +37825,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.217
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,218855049",
-            "fec_lim": "2026-05-12",
-            "fec_pago": "2026-05-18",
-            "moneda": "US$",
-            "nemo": "CFI-FTXFWE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.219
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,006717515",
@@ -38321,19 +38321,6 @@
             "val_acc": 0.021
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0201868054",
-            "fec_lim": "2026-05-09",
-            "fec_pago": "2026-05-15",
-            "moneda": "US$",
-            "nemo": "CFI-BDPRZU",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.02
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0204607591",
             "fec_lim": "2026-05-09",
             "fec_pago": "2026-05-15",
@@ -38352,6 +38339,19 @@
             "fec_pago": "2026-05-15",
             "moneda": "US$",
             "nemo": "CFI-BDPRXU",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.02
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0201868054",
+            "fec_lim": "2026-05-09",
+            "fec_pago": "2026-05-15",
+            "moneda": "US$",
+            "nemo": "CFI-BDPRZU",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -41337,32 +41337,6 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0039450524",
-            "fec_lim": "2026-05-05",
-            "fec_pago": "2026-05-11",
-            "moneda": "US$",
-            "nemo": "CFI-CGPE7E",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.004
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0044822645",
-            "fec_lim": "2026-05-05",
-            "fec_pago": "2026-05-11",
-            "moneda": "US$",
-            "nemo": "CFI-CGPE7E",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.004
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,007634360",
             "fec_lim": "2026-05-05",
             "fec_pago": "2026-05-11",
@@ -41441,11 +41415,11 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,006083962",
+            "descrip_vc": "REPARTO CAP.  US$ 0,005712292",
             "fec_lim": "2026-05-05",
             "fec_pago": "2026-05-11",
             "moneda": "US$",
-            "nemo": "CFI-AMG3IE",
+            "nemo": "CFI-AMG3RE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -41454,11 +41428,11 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,005712292",
+            "descrip_vc": "REPARTO CAP.  US$ 0,006083962",
             "fec_lim": "2026-05-05",
             "fec_pago": "2026-05-11",
             "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
+            "nemo": "CFI-AMG3IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -41660,6 +41634,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.003
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0039450524",
+            "fec_lim": "2026-05-05",
+            "fec_pago": "2026-05-11",
+            "moneda": "US$",
+            "nemo": "CFI-CGPE7E",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.004
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0044822645",
+            "fec_lim": "2026-05-05",
+            "fec_pago": "2026-05-11",
+            "moneda": "US$",
+            "nemo": "CFI-CGPE7E",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.004
         },
         {
             "descrip_vc": "DIVIDENDO PROV. $ 9,287127234636",
@@ -42260,11 +42260,11 @@
             "val_acc": 0.009
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,121426",
+            "descrip_vc": "DIVIDENDO US$ 0,121426",
             "fec_lim": "2026-05-04",
             "fec_pago": "2026-05-07",
             "moneda": "US$",
-            "nemo": "TLTWCL",
+            "nemo": "TLTW",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -42273,11 +42273,11 @@
             "val_acc": 0.121
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,121426",
+            "descrip_vc": "DIVIDENDO INF US$ 0,121426",
             "fec_lim": "2026-05-04",
             "fec_pago": "2026-05-07",
             "moneda": "US$",
-            "nemo": "TLTW",
+            "nemo": "TLTWCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -42297,32 +42297,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.167
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,009552904",
-            "fec_lim": "2026-04-30",
-            "fec_pago": "2026-05-07",
-            "moneda": "US$",
-            "nemo": "CFI-ALGTAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,023299189",
-            "fec_lim": "2026-04-30",
-            "fec_pago": "2026-05-07",
-            "moneda": "US$",
-            "nemo": "CFI-ALGTAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.023
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,010249638",
@@ -42349,6 +42323,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.025
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,009552904",
+            "fec_lim": "2026-04-30",
+            "fec_pago": "2026-05-07",
+            "moneda": "US$",
+            "nemo": "CFI-ALGTAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,023299189",
+            "fec_lim": "2026-04-30",
+            "fec_pago": "2026-05-07",
+            "moneda": "US$",
+            "nemo": "CFI-ALGTAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.023
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0092968426",
@@ -42819,19 +42819,6 @@
             "val_acc": 0.419
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,560849",
-            "fec_lim": "2026-05-02",
-            "fec_pago": "2026-05-06",
-            "moneda": "US$",
-            "nemo": "TIP",
-            "num_acc_ant": 0,
-            "num_acc_der": 100000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.561
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,242788",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
@@ -42843,6 +42830,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.243
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,560849",
+            "fec_lim": "2026-05-02",
+            "fec_pago": "2026-05-06",
+            "moneda": "US$",
+            "nemo": "TIP",
+            "num_acc_ant": 0,
+            "num_acc_der": 100000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.561
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,327737",
@@ -42884,11 +42884,11 @@
             "val_acc": 0.561
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,35933",
+            "descrip_vc": "DIVIDENDO INF US$ 0,35933",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
             "moneda": "US$",
-            "nemo": "TLH",
+            "nemo": "TLH CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -42910,11 +42910,11 @@
             "val_acc": 0.315
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,35933",
+            "descrip_vc": "DIVIDENDO US$ 0,35933",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
             "moneda": "US$",
-            "nemo": "TLH CL",
+            "nemo": "TLH",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -42936,17 +42936,17 @@
             "val_acc": 0.315
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,245963",
+            "descrip_vc": "DIVIDENDO INF US$ 0,242788",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
             "moneda": "US$",
-            "nemo": "SHYG CL",
+            "nemo": "SHYCL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.246
+            "val_acc": 0.243
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,245963",
@@ -42962,17 +42962,17 @@
             "val_acc": 0.246
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,242788",
+            "descrip_vc": "DIVIDENDO INF US$ 0,245963",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
             "moneda": "US$",
-            "nemo": "SHYCL",
+            "nemo": "SHYG CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.243
+            "val_acc": 0.246
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,185966",
@@ -44002,19 +44002,6 @@
             "val_acc": 0.088
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,087629",
-            "fec_lim": "2026-05-02",
-            "fec_pago": "2026-05-06",
-            "moneda": "US$",
-            "nemo": "SUSC",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.088
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,095677",
             "fec_lim": "2026-05-02",
             "fec_pago": "2026-05-06",
@@ -44026,6 +44013,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.096
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,087629",
+            "fec_lim": "2026-05-02",
+            "fec_pago": "2026-05-06",
+            "moneda": "US$",
+            "nemo": "SUSC",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.088
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,095677",
@@ -44873,11 +44873,24 @@
             "val_acc": 0.004
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0669825484",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0680075010",
             "fec_lim": "2026-04-28",
             "fec_pago": "2026-05-05",
             "moneda": "US$",
-            "nemo": "CFI-CBXDAE",
+            "nemo": "CFI-CBXDIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.068
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0666743788",
+            "fec_lim": "2026-04-28",
+            "fec_pago": "2026-05-05",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDRE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -44912,24 +44925,11 @@
             "val_acc": 0.068
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0680075010",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0669825484",
             "fec_lim": "2026-04-28",
             "fec_pago": "2026-05-05",
             "moneda": "US$",
-            "nemo": "CFI-CBXDIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.068
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0666743788",
-            "fec_lim": "2026-04-28",
-            "fec_pago": "2026-05-05",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDRE",
+            "nemo": "CFI-CBXDAE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -45821,19 +45821,6 @@
             "val_acc": 0.76
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,778651",
-            "fec_lim": "2026-04-24",
-            "fec_pago": "2026-04-30",
-            "moneda": "US$",
-            "nemo": "CFI-CARSFE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.779
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,777567",
             "fec_lim": "2026-04-24",
             "fec_pago": "2026-04-30",
@@ -45847,17 +45834,17 @@
             "val_acc": 0.778
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,771220",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,778651",
             "fec_lim": "2026-04-24",
             "fec_pago": "2026-04-30",
             "moneda": "US$",
-            "nemo": "CFI-CARSBE",
+            "nemo": "CFI-CARSFE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.771
+            "val_acc": 0.779
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,775781",
@@ -45871,6 +45858,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.776
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,771220",
+            "fec_lim": "2026-04-24",
+            "fec_pago": "2026-04-30",
+            "moneda": "US$",
+            "nemo": "CFI-CARSBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.771
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 1,5",
@@ -48101,19 +48101,6 @@
             "val_acc": 3580
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,260905097",
-            "fec_lim": "2026-04-17",
-            "fec_pago": "2026-04-23",
-            "moneda": "US$",
-            "nemo": "CFI-FTNNCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.261
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,258881663",
             "fec_lim": "2026-04-17",
             "fec_pago": "2026-04-23",
@@ -48138,6 +48125,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.26
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,260905097",
+            "fec_lim": "2026-04-17",
+            "fec_pago": "2026-04-23",
+            "moneda": "US$",
+            "nemo": "CFI-FTNNCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.261
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,153680",
@@ -48703,7 +48703,7 @@
             "fec_lim": "2026-04-16",
             "fec_pago": "2026-04-22",
             "moneda": "$",
-            "nemo": "ORO BLANCO",
+            "nemo": "PAMPA",
             "num_acc_ant": 0,
             "num_acc_der": 263761936332,
             "num_acc_nue": 0,
@@ -49622,6 +49622,19 @@
             "val_acc": 0.178
         },
         {
+            "descrip_vc": "DIVIDENDO PROV US$ 0,038306338",
+            "fec_lim": "2026-04-14",
+            "fec_pago": "2026-04-20",
+            "moneda": "US$",
+            "nemo": "CFI-FTGPE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.038
+        },
+        {
             "descrip_vc": "DIVIDENDO PROV US$ 0,038527395",
             "fec_lim": "2026-04-14",
             "fec_pago": "2026-04-20",
@@ -49646,19 +49659,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.039
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV US$ 0,038306338",
-            "fec_lim": "2026-04-14",
-            "fec_pago": "2026-04-20",
-            "moneda": "US$",
-            "nemo": "CFI-FTGPE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.038
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,1770778283",
@@ -50155,6 +50155,19 @@
             "val_acc": 0.009
         },
         {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0444850185",
+            "fec_lim": "2026-04-10",
+            "fec_pago": "2026-04-16",
+            "moneda": "US$",
+            "nemo": "CFI-FSLFAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.044
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0437267485",
             "fec_lim": "2026-04-10",
             "fec_pago": "2026-04-16",
@@ -50194,30 +50207,30 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0444850185",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0231535193",
             "fec_lim": "2026-04-10",
             "fec_pago": "2026-04-16",
             "moneda": "US$",
-            "nemo": "CFI-FSLFAE",
+            "nemo": "CFI-HMREDA",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.044
+            "val_acc": 0.023
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0238875365",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0227451091",
             "fec_lim": "2026-04-10",
             "fec_pago": "2026-04-16",
             "moneda": "US$",
-            "nemo": "CFI-HMREDZ",
+            "nemo": "CFI-HMREDC",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.024
+            "val_acc": 0.023
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0232257041",
@@ -50246,30 +50259,17 @@
             "val_acc": 0.024
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0231535193",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0238875365",
             "fec_lim": "2026-04-10",
             "fec_pago": "2026-04-16",
             "moneda": "US$",
-            "nemo": "CFI-HMREDA",
+            "nemo": "CFI-HMREDZ",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.023
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0227451091",
-            "fec_lim": "2026-04-10",
-            "fec_pago": "2026-04-16",
-            "moneda": "US$",
-            "nemo": "CFI-HMREDC",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.023
+            "val_acc": 0.024
         },
         {
             "descrip_vc": "REPARTO CAP.  $ 24,316429876",
@@ -52027,32 +52027,6 @@
             "val_acc": 0.01
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0353646336",
-            "fec_lim": "2026-04-02",
-            "fec_pago": "2026-04-10",
-            "moneda": "US$",
-            "nemo": "CFI-BC8CE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.035
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0103742189",
-            "fec_lim": "2026-04-02",
-            "fec_pago": "2026-04-10",
-            "moneda": "US$",
-            "nemo": "CFI-BC8CE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0354003007",
             "fec_lim": "2026-04-02",
             "fec_pago": "2026-04-10",
@@ -52097,6 +52071,32 @@
             "fec_pago": "2026-04-10",
             "moneda": "US$",
             "nemo": "CFI-BC8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0353646336",
+            "fec_lim": "2026-04-02",
+            "fec_pago": "2026-04-10",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.035
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0103742189",
+            "fec_lim": "2026-04-02",
+            "fec_pago": "2026-04-10",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -52989,32 +52989,6 @@
             "val_acc": 0.005
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,001394680",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.001
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,004519386",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.005
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,001484200",
             "fec_lim": "2026-04-01",
             "fec_pago": "2026-04-09",
@@ -53033,6 +53007,32 @@
             "fec_pago": "2026-04-09",
             "moneda": "US$",
             "nemo": "CFI-AMG3IE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.005
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,001394680",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.001
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,004519386",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3RE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -53093,32 +53093,6 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,001852032",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-09",
-            "moneda": "US$",
-            "nemo": "CFI-AG3RNE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.002
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,006001411",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-09",
-            "moneda": "US$",
-            "nemo": "CFI-AG3RNE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,001871146",
             "fec_lim": "2026-04-01",
             "fec_pago": "2026-04-09",
@@ -53137,6 +53111,32 @@
             "fec_pago": "2026-04-09",
             "moneda": "US$",
             "nemo": "CFI-AG3INE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,001852032",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-09",
+            "moneda": "US$",
+            "nemo": "CFI-AG3RNE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.002
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,006001411",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-09",
+            "moneda": "US$",
+            "nemo": "CFI-AG3RNE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -53743,19 +53743,6 @@
             "val_acc": 0.211
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,064853794",
-            "fec_lim": "2026-03-31",
-            "fec_pago": "2026-04-08",
-            "moneda": "US$",
-            "nemo": "CFI-LGTVIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.065
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,064231970",
             "fec_lim": "2026-03-31",
             "fec_pago": "2026-04-08",
@@ -53793,6 +53780,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.063
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,064853794",
+            "fec_lim": "2026-03-31",
+            "fec_pago": "2026-04-08",
+            "moneda": "US$",
+            "nemo": "CFI-LGTVIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.065
         },
         {
             "descrip_vc": "REPARTO EQUIV. EN US$ A 260664 CUOTAS",
@@ -54068,19 +54068,6 @@
             "val_acc": 0.446
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,85",
-            "fec_lim": "2026-03-16",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "MRK",
-            "num_acc_ant": 0,
-            "num_acc_der": 100000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.85
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,246905",
             "fec_lim": "2026-04-01",
             "fec_pago": "2026-04-07",
@@ -54092,6 +54079,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.247
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,85",
+            "fec_lim": "2026-03-16",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "MRK",
+            "num_acc_ant": 0,
+            "num_acc_der": 100000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.85
         },
         {
             "descrip_vc": "DIVIDENDO US$ 0,323916",
@@ -54118,84 +54118,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.324
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,344779",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "TLT CL",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.345
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,390775",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "TLH CL",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.391
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,344779",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "TLT",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.345
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,390775",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "TLH",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.391
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,183178",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "SLQD",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.183
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,183178",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "SLQD CL",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.183
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,246905",
@@ -54235,6 +54157,84 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.252
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,183178",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "SLQD CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.183
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,183178",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "SLQD",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.183
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,344779",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "TLT CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.345
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,390775",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "TLH",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.391
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,390775",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "TLH CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.391
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,344779",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "TLT",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.345
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,446478",
@@ -55147,6 +55147,45 @@
             "val_acc": 0.165
         },
         {
+            "descrip_vc": "DIVIDENDO US$ 0,230285",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "USHY",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.23
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,230285",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "USHYCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.23
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,199142",
+            "fec_lim": "2026-04-01",
+            "fec_pago": "2026-04-07",
+            "moneda": "US$",
+            "nemo": "USIG",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.199
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,219391",
             "fec_lim": "2026-04-01",
             "fec_pago": "2026-04-07",
@@ -55249,45 +55288,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.088
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,230285",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "USHY",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.23
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,230285",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "USHYCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.23
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,199142",
-            "fec_lim": "2026-04-01",
-            "fec_pago": "2026-04-07",
-            "moneda": "US$",
-            "nemo": "USIG",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.199
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,292689",
@@ -57990,32 +57990,6 @@
             "val_acc": 0.45
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0154712255",
-            "fec_lim": "2026-03-24",
-            "fec_pago": "2026-03-30",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.015
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0206873629",
-            "fec_lim": "2026-03-24",
-            "fec_pago": "2026-03-30",
-            "moneda": "US$",
-            "nemo": "CFI-CSP8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.021
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0130219097",
             "fec_lim": "2026-03-24",
             "fec_pago": "2026-03-30",
@@ -58118,6 +58092,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.023
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0154712255",
+            "fec_lim": "2026-03-24",
+            "fec_pago": "2026-03-30",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.015
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0206873629",
+            "fec_lim": "2026-03-24",
+            "fec_pago": "2026-03-30",
+            "moneda": "US$",
+            "nemo": "CFI-CSP8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.021
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,00607903",
@@ -58535,19 +58535,6 @@
             "val_acc": 0.89
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,057420706",
-            "fec_lim": "2026-03-20",
-            "fec_pago": "2026-03-26",
-            "moneda": "US$",
-            "nemo": "CFI-ALGTAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.057
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,061550548",
             "fec_lim": "2026-03-20",
             "fec_pago": "2026-03-26",
@@ -58559,6 +58546,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.062
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,057420706",
+            "fec_lim": "2026-03-20",
+            "fec_pago": "2026-03-26",
+            "moneda": "US$",
+            "nemo": "CFI-ALGTAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.057
         },
         {
             "descrip_vc": "REPARTO CAP.  $ 132,497558365",
@@ -60394,6 +60394,58 @@
             "val_acc": 0.057
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0387005826",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-23",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.039
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0579671548",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-23",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.058
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0386388988",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-23",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.039
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0578747614",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-23",
+            "moneda": "US$",
+            "nemo": "CFI-CBXDCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.058
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0379351790",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-23",
@@ -60446,58 +60498,6 @@
             "val_acc": 0.058
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0386388988",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-23",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.039
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0578747614",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-23",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.058
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0387005826",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-23",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.039
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0579671548",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-23",
-            "moneda": "US$",
-            "nemo": "CFI-CBXDBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.058
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0039078448",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-23",
@@ -60537,19 +60537,6 @@
             "val_acc": 0.004
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0826992465",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-23",
-            "moneda": "US$",
-            "nemo": "CFI-GT14BE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.083
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0752727036",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-23",
@@ -60574,6 +60561,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.082
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0826992465",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-23",
+            "moneda": "US$",
+            "nemo": "CFI-GT14BE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.083
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,00683952952090691",
@@ -61434,11 +61434,11 @@
             "val_acc": 0.331
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,392086",
+            "descrip_vc": "DIVIDENDO US$ 0,392086",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "USMV CL",
+            "nemo": "USMV",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -61447,11 +61447,11 @@
             "val_acc": 0.392
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,392086",
+            "descrip_vc": "DIVIDENDO INF US$ 0,392086",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "USMV",
+            "nemo": "USMV CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -61486,11 +61486,11 @@
             "val_acc": 0.631
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,419955",
+            "descrip_vc": "DIVIDENDO INF US$ 0,419955",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "QUAL",
+            "nemo": "QUAL CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -61499,11 +61499,11 @@
             "val_acc": 0.42
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,419955",
+            "descrip_vc": "DIVIDENDO US$ 0,419955",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "QUAL CL",
+            "nemo": "QUAL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -61590,11 +61590,11 @@
             "val_acc": 0.221
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,56862",
+            "descrip_vc": "DIVIDENDO INF US$ 0,56862",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "SIZE",
+            "nemo": "SIZE CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -61603,11 +61603,11 @@
             "val_acc": 0.569
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,56862",
+            "descrip_vc": "DIVIDENDO US$ 0,56862",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "SIZE CL",
+            "nemo": "SIZE",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -62019,32 +62019,6 @@
             "val_acc": 0.37
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,321027",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-20",
-            "moneda": "US$",
-            "nemo": "SUSA",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.321
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,298773",
-            "fec_lim": "2026-03-17",
-            "fec_pago": "2026-03-20",
-            "moneda": "US$",
-            "nemo": "SUSL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.299
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,321027",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
@@ -62058,11 +62032,37 @@
             "val_acc": 0.321
         },
         {
+            "descrip_vc": "DIVIDENDO US$ 0,321027",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-20",
+            "moneda": "US$",
+            "nemo": "SUSA",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.321
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,298773",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
             "nemo": "SUSLCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.299
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,298773",
+            "fec_lim": "2026-03-17",
+            "fec_pago": "2026-03-20",
+            "moneda": "US$",
+            "nemo": "SUSL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -62097,11 +62097,11 @@
             "val_acc": 0.037
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,124407",
+            "descrip_vc": "DIVIDENDO US$ 0,124407",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "USXFCL",
+            "nemo": "USXF",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -62110,11 +62110,11 @@
             "val_acc": 0.124
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,124407",
+            "descrip_vc": "DIVIDENDO INF US$ 0,124407",
             "fec_lim": "2026-03-17",
             "fec_pago": "2026-03-20",
             "moneda": "US$",
-            "nemo": "USXF",
+            "nemo": "USXFCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -63306,11 +63306,11 @@
             "val_acc": 0.003
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0065185641",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0065936577",
             "fec_lim": "2026-03-11",
             "fec_pago": "2026-03-17",
             "moneda": "US$",
-            "nemo": "CFI-HRGDC",
+            "nemo": "CFI-HRGDBP",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -63319,11 +63319,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0065936577",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0065185641",
             "fec_lim": "2026-03-11",
             "fec_pago": "2026-03-17",
             "moneda": "US$",
-            "nemo": "CFI-HRGDBP",
+            "nemo": "CFI-HRGDC",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -63592,7 +63592,7 @@
         {
             "descrip_vc": "CNJE INF x INCORP CALICHERAA  CALICHERAB",
             "fec_lim": "2026-03-16",
-            "nemo": "ORO BLANCO",
+            "nemo": "PAMPA",
             "num_acc_ant": 0,
             "num_acc_der": 0,
             "num_acc_nue": 0,
@@ -65582,19 +65582,6 @@
             "val_acc": 1.03
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,037909286",
-            "fec_lim": "2026-03-04",
-            "fec_pago": "2026-03-10",
-            "moneda": "US$",
-            "nemo": "CFI-BA5P3E",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.038
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,036406350",
             "fec_lim": "2026-03-04",
             "fec_pago": "2026-03-10",
@@ -65606,32 +65593,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.036
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0005818581",
-            "fec_lim": "2026-03-04",
-            "fec_pago": "2026-03-10",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.001
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0005566445",
-            "fec_lim": "2026-03-04",
-            "fec_pago": "2026-03-10",
-            "moneda": "US$",
-            "nemo": "CFI-CGGLEE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.001
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0005818369",
@@ -65660,6 +65621,32 @@
             "val_acc": 0.001
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0005818581",
+            "fec_lim": "2026-03-04",
+            "fec_pago": "2026-03-10",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.001
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0005566445",
+            "fec_lim": "2026-03-04",
+            "fec_pago": "2026-03-10",
+            "moneda": "US$",
+            "nemo": "CFI-CGGLEE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.001
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,015576171",
             "fec_lim": "2026-03-04",
             "fec_pago": "2026-03-10",
@@ -65671,19 +65658,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.016
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,028424362",
-            "fec_lim": "2026-03-04",
-            "fec_pago": "2026-03-10",
-            "moneda": "US$",
-            "nemo": "CFI-BDLP1E",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.028
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,027234597",
@@ -65699,30 +65673,17 @@
             "val_acc": 0.027
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,028986731",
+            "descrip_vc": "REPARTO CAP.  US$ 0,037909286",
             "fec_lim": "2026-03-04",
             "fec_pago": "2026-03-10",
             "moneda": "US$",
-            "nemo": "CFI-BDLP2E",
+            "nemo": "CFI-BA5P3E",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.029
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,016101382",
-            "fec_lim": "2026-03-04",
-            "fec_pago": "2026-03-10",
-            "moneda": "US$",
-            "nemo": "CFI-BSDP2E",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.016
+            "val_acc": 0.038
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,015783180",
@@ -65749,6 +65710,45 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.016
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,016101382",
+            "fec_lim": "2026-03-04",
+            "fec_pago": "2026-03-10",
+            "moneda": "US$",
+            "nemo": "CFI-BSDP2E",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.016
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,028986731",
+            "fec_lim": "2026-03-04",
+            "fec_pago": "2026-03-10",
+            "moneda": "US$",
+            "nemo": "CFI-BDLP2E",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.029
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,028424362",
+            "fec_lim": "2026-03-04",
+            "fec_pago": "2026-03-10",
+            "moneda": "US$",
+            "nemo": "CFI-BDLP1E",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.028
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0070123498",
@@ -66531,6 +66531,19 @@
             "val_acc": 0.007
         },
         {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0807604214",
+            "fec_lim": "2026-03-03",
+            "fec_pago": "2026-03-09",
+            "moneda": "US$",
+            "nemo": "CFI-COF3PE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.081
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0683611047",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
@@ -66581,19 +66594,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.079
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0807604214",
-            "fec_lim": "2026-03-03",
-            "fec_pago": "2026-03-09",
-            "moneda": "US$",
-            "nemo": "CFI-COF3PE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.081
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0121129052",
@@ -66661,6 +66661,32 @@
             "val_acc": 0.012
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,006176140",
+            "fec_lim": "2026-03-03",
+            "fec_pago": "2026-03-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3XE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,000982222",
+            "fec_lim": "2026-03-03",
+            "fec_pago": "2026-03-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3XE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.001
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,004845657",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
@@ -66713,24 +66739,24 @@
             "val_acc": 0.001
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,006176140",
+            "descrip_vc": "DIVIDENDO INF US$ 0,004591563",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
             "moneda": "US$",
-            "nemo": "CFI-AMG3XE",
+            "nemo": "CFI-AMG3RE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.006
+            "val_acc": 0.005
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,000982222",
+            "descrip_vc": "REPARTO CAP.  US$ 0,000730220",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
             "moneda": "US$",
-            "nemo": "CFI-AMG3XE",
+            "nemo": "CFI-AMG3RE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -66765,32 +66791,6 @@
             "val_acc": 0.001
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,004591563",
-            "fec_lim": "2026-03-03",
-            "fec_pago": "2026-03-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.005
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,000730220",
-            "fec_lim": "2026-03-03",
-            "fec_pago": "2026-03-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.001
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,006131451",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
@@ -66817,32 +66817,6 @@
             "val_acc": 0.001
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,006155071",
-            "fec_lim": "2026-03-03",
-            "fec_pago": "2026-03-09",
-            "moneda": "US$",
-            "nemo": "CFI-AG3INE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,000978870",
-            "fec_lim": "2026-03-03",
-            "fec_pago": "2026-03-09",
-            "moneda": "US$",
-            "nemo": "CFI-AG3INE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.001
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,006096974",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-09",
@@ -66861,6 +66835,32 @@
             "fec_pago": "2026-03-09",
             "moneda": "US$",
             "nemo": "CFI-AG3RNE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.001
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,006155071",
+            "fec_lim": "2026-03-03",
+            "fec_pago": "2026-03-09",
+            "moneda": "US$",
+            "nemo": "CFI-AG3INE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,000978870",
+            "fec_lim": "2026-03-03",
+            "fec_pago": "2026-03-09",
+            "moneda": "US$",
+            "nemo": "CFI-AG3INE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -67220,11 +67220,11 @@
             "val_acc": 0.163
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,20402",
+            "descrip_vc": "DIVIDENDO US$ 0,20402",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-06",
             "moneda": "US$",
-            "nemo": "TLTWCL",
+            "nemo": "TLTW",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -67233,11 +67233,11 @@
             "val_acc": 0.204
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,20402",
+            "descrip_vc": "DIVIDENDO INF US$ 0,20402",
             "fec_lim": "2026-03-03",
             "fec_pago": "2026-03-06",
             "moneda": "US$",
-            "nemo": "TLTW",
+            "nemo": "TLTWCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -67337,19 +67337,6 @@
             "val_acc": 1.64
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,304438",
-            "fec_lim": "2026-03-02",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "SHV",
-            "num_acc_ant": 0,
-            "num_acc_der": 100000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.304
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,222982",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
@@ -67361,6 +67348,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.223
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,304438",
+            "fec_lim": "2026-03-02",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "SHV",
+            "num_acc_ant": 0,
+            "num_acc_der": 100000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.304
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,304438",
@@ -67389,19 +67389,6 @@
             "val_acc": 0.301
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,339165",
-            "fec_lim": "2026-03-02",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "TLH",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.339
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,300633",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
@@ -67428,30 +67415,17 @@
             "val_acc": 0.339
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,180322",
+            "descrip_vc": "DIVIDENDO US$ 0,339165",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
             "moneda": "US$",
-            "nemo": "SLQD CL",
+            "nemo": "TLH",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.18
-        },
-        {
-            "descrip_vc": "DIVIDENDO US$ 0,180322",
-            "fec_lim": "2026-03-02",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "SLQD",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.18
+            "val_acc": 0.339
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,243405",
@@ -67491,6 +67465,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.223
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,180322",
+            "fec_lim": "2026-03-02",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "SLQD",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.18
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,180322",
+            "fec_lim": "2026-03-02",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "SLQD CL",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.18
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,393736",
@@ -68442,37 +68442,11 @@
             "val_acc": 0.086
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 1,64",
-            "fec_lim": "2026-02-17",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "UPSCL",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 1.64
-        },
-        {
             "descrip_vc": "DIVIDENDO US$ 0,203034",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
             "moneda": "US$",
             "nemo": "USIG",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.203
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,203034",
-            "fec_lim": "2026-03-02",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "USIGCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -68507,11 +68481,24 @@
             "val_acc": 0.202
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,27239",
+            "descrip_vc": "DIVIDENDO INF US$ 1,64",
+            "fec_lim": "2026-02-17",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "UPSCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 1.64
+        },
+        {
+            "descrip_vc": "DIVIDENDO US$ 0,27239",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
             "moneda": "US$",
-            "nemo": "SGOVCL",
+            "nemo": "SGOV",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -68520,11 +68507,11 @@
             "val_acc": 0.272
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,27239",
+            "descrip_vc": "DIVIDENDO INF US$ 0,27239",
             "fec_lim": "2026-03-02",
             "fec_pago": "2026-03-05",
             "moneda": "US$",
-            "nemo": "SGOV",
+            "nemo": "SGOVCL",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -68609,6 +68596,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.17
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,203034",
+            "fec_lim": "2026-03-02",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "USIGCL",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.203
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,0063923669",
@@ -68741,6 +68741,19 @@
             "val_acc": 0.194
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 3,5163596347",
+            "fec_lim": "2026-02-27",
+            "fec_pago": "2026-03-05",
+            "moneda": "US$",
+            "nemo": "CFI-DSSBE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 3.516
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 3,6326444677",
             "fec_lim": "2026-02-27",
             "fec_pago": "2026-03-05",
@@ -68765,19 +68778,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 3.453
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 3,5163596347",
-            "fec_lim": "2026-02-27",
-            "fec_pago": "2026-03-05",
-            "moneda": "US$",
-            "nemo": "CFI-DSSBE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 3.516
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,014046360",
@@ -69170,6 +69170,32 @@
             "val_acc": 2.709
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,002478893",
+            "fec_lim": "2026-02-26",
+            "fec_pago": "2026-03-04",
+            "moneda": "US$",
+            "nemo": "CFI-ACESAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.002
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0149098520",
+            "fec_lim": "2026-02-26",
+            "fec_pago": "2026-03-04",
+            "moneda": "US$",
+            "nemo": "CFI-ACESAE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.015
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,002652805",
             "fec_lim": "2026-02-26",
             "fec_pago": "2026-03-04",
@@ -69246,32 +69272,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.016
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,002478893",
-            "fec_lim": "2026-02-26",
-            "fec_pago": "2026-03-04",
-            "moneda": "US$",
-            "nemo": "CFI-ACESAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.002
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0149098520",
-            "fec_lim": "2026-02-26",
-            "fec_pago": "2026-03-04",
-            "moneda": "US$",
-            "nemo": "CFI-ACESAE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.015
         },
         {
             "descrip_vc": "DIVIDENDO PROV. US$ 1,635",
@@ -69924,19 +69924,6 @@
             "val_acc": 0.703
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,701572",
-            "fec_lim": "2026-02-24",
-            "fec_pago": "2026-03-02",
-            "moneda": "US$",
-            "nemo": "CFI-CARSDE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.702
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,697716",
             "fec_lim": "2026-02-24",
             "fec_pago": "2026-03-02",
@@ -69948,6 +69935,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.698
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,701572",
+            "fec_lim": "2026-02-24",
+            "fec_pago": "2026-03-02",
+            "moneda": "US$",
+            "nemo": "CFI-CARSDE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.702
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 1,14",
@@ -70912,32 +70912,6 @@
             "val_acc": 0.012
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,007715146",
-            "fec_lim": "2026-02-18",
-            "fec_pago": "2026-02-24",
-            "moneda": "US$",
-            "nemo": "CFI-AHVRE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.008
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,003248555",
-            "fec_lim": "2026-02-18",
-            "fec_pago": "2026-02-24",
-            "moneda": "US$",
-            "nemo": "CFI-AHVRE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.003
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,008978013",
             "fec_lim": "2026-02-18",
             "fec_pago": "2026-02-24",
@@ -70962,6 +70936,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.004
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,007715146",
+            "fec_lim": "2026-02-18",
+            "fec_pago": "2026-02-24",
+            "moneda": "US$",
+            "nemo": "CFI-AHVRE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.008
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,003248555",
+            "fec_lim": "2026-02-18",
+            "fec_pago": "2026-02-24",
+            "moneda": "US$",
+            "nemo": "CFI-AHVRE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.003
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,008220987",
@@ -71094,37 +71094,24 @@
             "val_acc": 0.004
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0180293373",
-            "fec_lim": "2026-02-17",
-            "fec_pago": "2026-02-23",
-            "moneda": "US$",
-            "nemo": "CFI-BDPRAU",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.018
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0182572927",
-            "fec_lim": "2026-02-17",
-            "fec_pago": "2026-02-23",
-            "moneda": "US$",
-            "nemo": "CFI-BDPRKU",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.018
-        },
-        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0184156401",
             "fec_lim": "2026-02-17",
             "fec_pago": "2026-02-23",
             "moneda": "US$",
             "nemo": "CFI-BDPRIU",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.018
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0180293373",
+            "fec_lim": "2026-02-17",
+            "fec_pago": "2026-02-23",
+            "moneda": "US$",
+            "nemo": "CFI-BDPRAU",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -71151,6 +71138,19 @@
             "fec_pago": "2026-02-23",
             "moneda": "US$",
             "nemo": "CFI-BDPRXU",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.018
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0182572927",
+            "fec_lim": "2026-02-17",
+            "fec_pago": "2026-02-23",
+            "moneda": "US$",
+            "nemo": "CFI-BDPRKU",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -71367,11 +71367,11 @@
             "val_acc": 7.837
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0068634917",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0067877675",
             "fec_lim": "2026-02-16",
             "fec_pago": "2026-02-21",
             "moneda": "US$",
-            "nemo": "CFI-HRGDBP",
+            "nemo": "CFI-HRGDC",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -71380,11 +71380,11 @@
             "val_acc": 0.007
         },
         {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0067877675",
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0068634917",
             "fec_lim": "2026-02-16",
             "fec_pago": "2026-02-21",
             "moneda": "US$",
-            "nemo": "CFI-HRGDC",
+            "nemo": "CFI-HRGDBP",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -72225,6 +72225,32 @@
             "val_acc": 1.057
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0425646573",
+            "fec_lim": "2026-02-11",
+            "fec_pago": "2026-02-17",
+            "moneda": "US$",
+            "nemo": "CFI-BC8AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.043
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0449653587",
+            "fec_lim": "2026-02-11",
+            "fec_pago": "2026-02-17",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.045
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0450100669",
             "fec_lim": "2026-02-11",
             "fec_pago": "2026-02-17",
@@ -72264,30 +72290,17 @@
             "val_acc": 0.045
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0449653587",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0467809914",
             "fec_lim": "2026-02-11",
             "fec_pago": "2026-02-17",
             "moneda": "US$",
-            "nemo": "CFI-BC8CE",
+            "nemo": "CFI-HDPAXE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.045
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0425646573",
-            "fec_lim": "2026-02-11",
-            "fec_pago": "2026-02-17",
-            "moneda": "US$",
-            "nemo": "CFI-BC8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.043
+            "val_acc": 0.047
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0464866668",
@@ -72301,19 +72314,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.046
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0467809914",
-            "fec_lim": "2026-02-11",
-            "fec_pago": "2026-02-17",
-            "moneda": "US$",
-            "nemo": "CFI-HDPAXE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.047
         },
         {
             "descrip_vc": "DIVIDENDO PROV. $ 3,14134881641",
@@ -72784,11 +72784,11 @@
             "val_acc": 0.26
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0039738311",
+            "descrip_vc": "REPARTO CAP.  US$ 0,0039728884",
             "fec_lim": "2026-02-06",
             "fec_pago": "2026-02-12",
             "moneda": "US$",
-            "nemo": "CFI-BC8CE",
+            "nemo": "CFI-BC8IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -72797,11 +72797,11 @@
             "val_acc": 0.004
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0122572406",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0122543325",
             "fec_lim": "2026-02-06",
             "fec_pago": "2026-02-12",
             "moneda": "US$",
-            "nemo": "CFI-BC8CE",
+            "nemo": "CFI-BC8IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -72836,6 +72836,32 @@
             "val_acc": 0.012
         },
         {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0039738311",
+            "fec_lim": "2026-02-06",
+            "fec_pago": "2026-02-12",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.004
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0122572406",
+            "fec_lim": "2026-02-06",
+            "fec_pago": "2026-02-12",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.012
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0037619160",
             "fec_lim": "2026-02-06",
             "fec_pago": "2026-02-12",
@@ -72854,32 +72880,6 @@
             "fec_pago": "2026-02-12",
             "moneda": "US$",
             "nemo": "CFI-BC8AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.012
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0039728884",
-            "fec_lim": "2026-02-06",
-            "fec_pago": "2026-02-12",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.004
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0122543325",
-            "fec_lim": "2026-02-06",
-            "fec_pago": "2026-02-12",
-            "moneda": "US$",
-            "nemo": "CFI-BC8IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -74812,19 +74812,6 @@
             "val_acc": 0.005
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,007308443",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3XE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.007
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,005475583",
             "fec_lim": "2026-02-03",
             "fec_pago": "2026-02-09",
@@ -74838,6 +74825,19 @@
             "val_acc": 0.005
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,007308443",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3XE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.007
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,007758913",
             "fec_lim": "2026-02-03",
             "fec_pago": "2026-02-09",
@@ -74849,6 +74849,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.008
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,007284339",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-AG3INE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.007
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,007221064",
@@ -74875,45 +74888,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.007
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,007284339",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-AG3INE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.007
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0207145853",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCP9AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.021
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0105226979",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCP9AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.011
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0063663577",
@@ -75072,6 +75046,58 @@
             "val_acc": 0.012
         },
         {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0190334285",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCP9RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.019
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0096686890",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCP9RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.01
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0207145853",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCP9AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.021
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0105226979",
+            "fec_lim": "2026-02-03",
+            "fec_pago": "2026-02-09",
+            "moneda": "US$",
+            "nemo": "CFI-LCP9AE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.011
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0215882447",
             "fec_lim": "2026-02-03",
             "fec_pago": "2026-02-09",
@@ -75148,32 +75174,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.011
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0190334285",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCP9RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.019
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0096686890",
-            "fec_lim": "2026-02-03",
-            "fec_pago": "2026-02-09",
-            "moneda": "US$",
-            "nemo": "CFI-LCP9RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.01
         },
         {
             "descrip_vc": "DIVIDENDO DEF. US$ 0,00409710814176111",
@@ -75423,6 +75423,19 @@
             "val_acc": 0
         },
         {
+            "descrip_vc": "DIVIDENDO INF US$ 0,221466247",
+            "fec_lim": "2026-01-31",
+            "fec_pago": "2026-02-06",
+            "moneda": "US$",
+            "nemo": "CFI-FTXDIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.221
+        },
+        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,221848047",
             "fec_lim": "2026-01-31",
             "fec_pago": "2026-02-06",
@@ -75441,19 +75454,6 @@
             "fec_pago": "2026-02-06",
             "moneda": "US$",
             "nemo": "CFI-FTXDPE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.221
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,221466247",
-            "fec_lim": "2026-01-31",
-            "fec_pago": "2026-02-06",
-            "moneda": "US$",
-            "nemo": "CFI-FTXDIE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -75696,6 +75696,19 @@
             "val_acc": 0.332
         },
         {
+            "descrip_vc": "DIVIDENDO US$ 0,380043",
+            "fec_lim": "2026-02-02",
+            "fec_pago": "2026-02-05",
+            "moneda": "US$",
+            "nemo": "TLH",
+            "num_acc_ant": 0,
+            "num_acc_der": 1000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.38
+        },
+        {
             "descrip_vc": "DIVIDENDO INF US$ 0,380043",
             "fec_lim": "2026-02-02",
             "fec_pago": "2026-02-05",
@@ -75722,17 +75735,17 @@
             "val_acc": 0.332
         },
         {
-            "descrip_vc": "DIVIDENDO US$ 0,380043",
+            "descrip_vc": "DIVIDENDO INF US$ 0,178256",
             "fec_lim": "2026-02-02",
             "fec_pago": "2026-02-05",
             "moneda": "US$",
-            "nemo": "TLH",
+            "nemo": "SLQD CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.38
+            "val_acc": 0.178
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,249955",
@@ -75779,19 +75792,6 @@
             "fec_pago": "2026-02-05",
             "moneda": "US$",
             "nemo": "SLQD",
-            "num_acc_ant": 0,
-            "num_acc_der": 1000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.178
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,178256",
-            "fec_lim": "2026-02-02",
-            "fec_pago": "2026-02-05",
-            "moneda": "US$",
-            "nemo": "SLQD CL",
             "num_acc_ant": 0,
             "num_acc_der": 1000000,
             "num_acc_nue": 0,
@@ -76749,19 +76749,6 @@
             "val_acc": 0.036
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0330851821",
-            "fec_lim": "2026-01-30",
-            "fec_pago": "2026-02-05",
-            "moneda": "US$",
-            "nemo": "CFI-BLMVCE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.033
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0336468935",
             "fec_lim": "2026-01-30",
             "fec_pago": "2026-02-05",
@@ -76773,6 +76760,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.034
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0330851821",
+            "fec_lim": "2026-01-30",
+            "fec_pago": "2026-02-05",
+            "moneda": "US$",
+            "nemo": "CFI-BLMVCE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.033
         },
         {
             "descrip_vc": "REPARTO CAP.  $ 648,171249557",
@@ -78673,17 +78673,17 @@
             "val_acc": 0.759
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0915365038",
+            "descrip_vc": "REPARTO CAP.  US$ 0,1193769125",
             "fec_lim": "2026-01-27",
             "fec_pago": "2026-02-02",
             "moneda": "US$",
-            "nemo": "CFI-GT14BE",
+            "nemo": "CFI-GT13AE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
-            "val_acc": 0.092
+            "val_acc": 0.119
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0906722353",
@@ -78697,19 +78697,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.091
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,1193769125",
-            "fec_lim": "2026-01-27",
-            "fec_pago": "2026-02-02",
-            "moneda": "US$",
-            "nemo": "CFI-GT13AE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.119
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,1202055174",
@@ -78736,6 +78723,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.084
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0915365038",
+            "fec_lim": "2026-01-27",
+            "fec_pago": "2026-02-02",
+            "moneda": "US$",
+            "nemo": "CFI-GT14BE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.092
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,03933824265324850",
@@ -79492,11 +79492,11 @@
             "val_acc": 0.018
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,016756953",
+            "descrip_vc": "DIVIDENDO INF US$ 0,016633058",
             "fec_lim": "2026-01-22",
             "fec_pago": "2026-01-28",
             "moneda": "US$",
-            "nemo": "CFI-AMG4AE",
+            "nemo": "CFI-AMG4TE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -79505,11 +79505,11 @@
             "val_acc": 0.017
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,016633058",
+            "descrip_vc": "DIVIDENDO INF US$ 0,016756953",
             "fec_lim": "2026-01-22",
             "fec_pago": "2026-01-28",
             "moneda": "US$",
-            "nemo": "CFI-AMG4TE",
+            "nemo": "CFI-AMG4AE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -80103,6 +80103,19 @@
             "val_acc": 13.001
         },
         {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,020626253",
+            "fec_lim": "2026-01-21",
+            "fec_pago": "2026-01-27",
+            "moneda": "US$",
+            "nemo": "CFI-HMCDGD",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.021
+        },
+        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0212873298",
             "fec_lim": "2026-01-21",
             "fec_pago": "2026-01-27",
@@ -80127,19 +80140,6 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.023
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,020626253",
-            "fec_lim": "2026-01-21",
-            "fec_pago": "2026-01-27",
-            "moneda": "US$",
-            "nemo": "CFI-HMCDGD",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.021
         },
         {
             "descrip_vc": "REPARTO CAP.  $ 20,582572866",
@@ -82716,11 +82716,11 @@
             "val_acc": 0.13
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,130273152",
+            "descrip_vc": "REPARTO CAP.  US$ 0,130163137",
             "fec_lim": "2026-01-08",
             "fec_pago": "2026-01-14",
             "moneda": "US$",
-            "nemo": "CFI-FTNNCE",
+            "nemo": "CFI-FTNNBE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -82729,11 +82729,11 @@
             "val_acc": 0.13
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,130163137",
+            "descrip_vc": "REPARTO CAP.  US$ 0,130273152",
             "fec_lim": "2026-01-08",
             "fec_pago": "2026-01-14",
             "moneda": "US$",
-            "nemo": "CFI-FTNNBE",
+            "nemo": "CFI-FTNNCE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -82768,6 +82768,32 @@
             "val_acc": 0.031
         },
         {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0251186047",
+            "fec_lim": "2026-01-08",
+            "fec_pago": "2026-01-14",
+            "moneda": "US$",
+            "nemo": "CFI-HMREDA",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.025
+        },
+        {
+            "descrip_vc": "DIVIDENDO PROV. US$ 0,0247125883",
+            "fec_lim": "2026-01-08",
+            "fec_pago": "2026-01-14",
+            "moneda": "US$",
+            "nemo": "CFI-HMREDC",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.025
+        },
+        {
             "descrip_vc": "DIVIDENDO PROV. US$ 0,0258605854",
             "fec_lim": "2026-01-08",
             "fec_pago": "2026-01-14",
@@ -82799,32 +82825,6 @@
             "fec_pago": "2026-01-14",
             "moneda": "US$",
             "nemo": "CFI-HMREDI",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.025
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0247125883",
-            "fec_lim": "2026-01-08",
-            "fec_pago": "2026-01-14",
-            "moneda": "US$",
-            "nemo": "CFI-HMREDC",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.025
-        },
-        {
-            "descrip_vc": "DIVIDENDO PROV. US$ 0,0251186047",
-            "fec_lim": "2026-01-08",
-            "fec_pago": "2026-01-14",
-            "moneda": "US$",
-            "nemo": "CFI-HMREDA",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -83769,19 +83769,6 @@
             "val_acc": 0.355
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,3284223731",
-            "fec_lim": "2026-01-07",
-            "fec_pago": "2026-01-13",
-            "moneda": "US$",
-            "nemo": "CFI-COF3RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.328
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,3870083916",
             "fec_lim": "2026-01-07",
             "fec_pago": "2026-01-13",
@@ -83819,6 +83806,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.369
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,3284223731",
+            "fec_lim": "2026-01-07",
+            "fec_pago": "2026-01-13",
+            "moneda": "US$",
+            "nemo": "CFI-COF3RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.328
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,01666393300239270",
@@ -84549,6 +84549,19 @@
             "val_acc": 0.012
         },
         {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0119121312",
+            "fec_lim": "2026-01-06",
+            "fec_pago": "2026-01-12",
+            "moneda": "US$",
+            "nemo": "CFI-HMCDXE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.012
+        },
+        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0104448359",
             "fec_lim": "2026-01-06",
             "fec_pago": "2026-01-12",
@@ -84567,19 +84580,6 @@
             "fec_pago": "2026-01-12",
             "moneda": "US$",
             "nemo": "CFI-HMCDEE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.012
-        },
-        {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0119121312",
-            "fec_lim": "2026-01-06",
-            "fec_pago": "2026-01-12",
-            "moneda": "US$",
-            "nemo": "CFI-HMCDXE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -84640,19 +84640,6 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,005416012",
-            "fec_lim": "2026-01-06",
-            "fec_pago": "2026-01-12",
-            "moneda": "US$",
-            "nemo": "CFI-AMG3TE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.005
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,007224446",
             "fec_lim": "2026-01-06",
             "fec_pago": "2026-01-12",
@@ -84664,6 +84651,19 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,005416012",
+            "fec_lim": "2026-01-06",
+            "fec_pago": "2026-01-12",
+            "moneda": "US$",
+            "nemo": "CFI-AMG3TE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.005
         },
         {
             "descrip_vc": "DIVIDENDO INF US$ 0,005381213",
@@ -84679,11 +84679,11 @@
             "val_acc": 0.005
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,005710704",
+            "descrip_vc": "DIVIDENDO INF US$ 0,005668594",
             "fec_lim": "2026-01-06",
             "fec_pago": "2026-01-12",
             "moneda": "US$",
-            "nemo": "CFI-AMG3IE",
+            "nemo": "CFI-AMG3AE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -84692,11 +84692,11 @@
             "val_acc": 0.006
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,005668594",
+            "descrip_vc": "DIVIDENDO INF US$ 0,005710704",
             "fec_lim": "2026-01-06",
             "fec_pago": "2026-01-12",
             "moneda": "US$",
-            "nemo": "CFI-AMG3AE",
+            "nemo": "CFI-AMG3IE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -86031,32 +86031,6 @@
             "val_acc": 0.021
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0158033684",
-            "fec_lim": "2025-12-30",
-            "fec_pago": "2026-01-06",
-            "moneda": "US$",
-            "nemo": "CFI-BC8CE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.016
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0207680057",
-            "fec_lim": "2025-12-30",
-            "fec_pago": "2026-01-06",
-            "moneda": "US$",
-            "nemo": "CFI-BC8CE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.021
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0149680109",
             "fec_lim": "2025-12-30",
             "fec_pago": "2026-01-06",
@@ -86081,6 +86055,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.02
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0158033684",
+            "fec_lim": "2025-12-30",
+            "fec_pago": "2026-01-06",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.016
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0207680057",
+            "fec_lim": "2025-12-30",
+            "fec_pago": "2026-01-06",
+            "moneda": "US$",
+            "nemo": "CFI-BC8CE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.021
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0158188870",
@@ -86928,19 +86928,6 @@
             "val_acc": 0.02
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0063637665",
-            "fec_lim": "2025-12-29",
-            "fec_pago": "2026-01-05",
-            "moneda": "US$",
-            "nemo": "CFI-COF4RE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.006
-        },
-        {
             "descrip_vc": "DIVIDENDO INF US$ 0,0083042218",
             "fec_lim": "2025-12-29",
             "fec_pago": "2026-01-05",
@@ -86954,11 +86941,24 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0078913448",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0063637665",
             "fec_lim": "2025-12-29",
             "fec_pago": "2026-01-05",
             "moneda": "US$",
-            "nemo": "CFI-COF4BE",
+            "nemo": "CFI-COF4RE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.006
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0083069458",
+            "fec_lim": "2025-12-29",
+            "fec_pago": "2026-01-05",
+            "moneda": "US$",
+            "nemo": "CFI-COF4CE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -86967,11 +86967,11 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0083069458",
+            "descrip_vc": "DIVIDENDO INF US$ 0,0078913448",
             "fec_lim": "2025-12-29",
             "fec_pago": "2026-01-05",
             "moneda": "US$",
-            "nemo": "CFI-COF4CE",
+            "nemo": "CFI-COF4BE",
             "num_acc_ant": 0,
             "num_acc_der": 10000000,
             "num_acc_nue": 0,
@@ -87149,32 +87149,6 @@
             "val_acc": 0.008
         },
         {
-            "descrip_vc": "REPARTO CAP.  US$ 0,0083200971",
-            "fec_lim": "2025-12-29",
-            "fec_pago": "2026-01-05",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.008
-        },
-        {
-            "descrip_vc": "DIVIDENDO INF US$ 0,0075903238",
-            "fec_lim": "2025-12-29",
-            "fec_pago": "2026-01-05",
-            "moneda": "US$",
-            "nemo": "CFI-LCPXIE",
-            "num_acc_ant": 0,
-            "num_acc_der": 10000000,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
-            "val_acc": 0.008
-        },
-        {
             "descrip_vc": "REPARTO CAP.  US$ 0,0081369339",
             "fec_lim": "2025-12-29",
             "fec_pago": "2026-01-05",
@@ -87199,6 +87173,32 @@
             "pre_ant_vc": 0,
             "pre_ex_vc": 0,
             "val_acc": 0.007
+        },
+        {
+            "descrip_vc": "REPARTO CAP.  US$ 0,0083200971",
+            "fec_lim": "2025-12-29",
+            "fec_pago": "2026-01-05",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.008
+        },
+        {
+            "descrip_vc": "DIVIDENDO INF US$ 0,0075903238",
+            "fec_lim": "2025-12-29",
+            "fec_pago": "2026-01-05",
+            "moneda": "US$",
+            "nemo": "CFI-LCPXIE",
+            "num_acc_ant": 0,
+            "num_acc_der": 10000000,
+            "num_acc_nue": 0,
+            "pre_ant_vc": 0,
+            "pre_ex_vc": 0,
+            "val_acc": 0.008
         },
         {
             "descrip_vc": "REPARTO CAP.  US$ 0,0071880590",
