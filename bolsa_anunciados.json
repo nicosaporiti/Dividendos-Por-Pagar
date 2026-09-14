@@ -150,9 +150,9 @@
             "nemo": "INDISA",
             "num_acc_ant": 153430266,
             "num_acc_der": 0,
-            "num_acc_nue": 0,
-            "pre_ant_vc": 0,
-            "pre_ex_vc": 0,
+            "num_acc_nue": 165430266,
+            "pre_ant_vc": 2625,
+            "pre_ex_vc": 2586.92,
             "val_acc": 2100
         },
         {
